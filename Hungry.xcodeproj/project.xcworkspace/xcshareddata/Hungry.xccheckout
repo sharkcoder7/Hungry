@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1645D0FA-314D-4BFB-8A6B-558DD5211BBF</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>d161f21b-5bd6-44a5-862f-d2c78e220af6++2571</key>
+		<string>svn://173.203.242.222/iphone/PWC%2520iOS%2520App/The%2520App/PWC/PWC/SVProgressHUD</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>d161f21b-5bd6-44a5-862f-d2c78e220af6++2571</key>
+		<string>SVProgressHUD/</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>d161f21b-5bd6-44a5-862f-d2c78e220af6++2571</key>
+		<string>svn://173.203.242.222/iphone</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://173.203.242.222/iphone/PWC%2520iOS%2520App/The%2520App/PWC/PWC/SVProgressHUD</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>d161f21b-5bd6-44a5-862f-d2c78e220af6++2571</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>d161f21b-5bd6-44a5-862f-d2c78e220af6++2571</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SVProgressHUD</string>
+		</dict>
+	</array>
+</dict>
+</plist>
